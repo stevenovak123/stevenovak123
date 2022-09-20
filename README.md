@@ -39,7 +39,7 @@ I recently graduated from the St.Xaviers College Mumbai, with a Bachelors of Sci
 - 🌱 I’m currently learning Node.js & Open Source Contribution  
   
 
-- ❓ Ask me about anything related to HTML, CSS, JavaScript, React, Tailwind Css   
+- ❓ Ask me about anything related to HTML, CSS, JavaScript, React, Tailwind CSS   
   
 
 - ⚡ Fun fact: I'm an Basketball Athlete and a gamer  

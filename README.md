@@ -94,9 +94,7 @@ I recently graduated from the St.Xaviers College Mumbai, with a Bachelors of Sci
 
   
 
-<br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=stevenovak123&&style=flat-square)  
   
 
 <br/>  

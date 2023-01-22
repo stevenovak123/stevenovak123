@@ -36,13 +36,13 @@ I recently graduated from the St.Xaviers College Mumbai, with a Bachelors of Sci
 - 🔭 I’m currently working on [Learning Data Structures and Algorithms in Java](https://github.com/stevenovak123/DSA)  
   
 
-- 🌱 I’m currently learning Node.js & Open Source Contribution  
+- 🌱 I’m currently learning Automation testing in Selenium 
   
 
-- ❓ Ask me about anything related to HTML, CSS, JavaScript, React, Tailwind CSS   
+- ❓ Ask me about anything related to Web-dev, Testing, Automation & Collaboration
   
 
-- ⚡ Fun fact: I'm an Basketball Athlete and a gamer  
+- ⚡ Fun fact: I'm an Basketball Athlete and a gamer 
 
 
 </td><td valign="top" width="50%">

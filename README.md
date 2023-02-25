@@ -33,7 +33,7 @@ I recently graduated from the St.Xaviers College Mumbai, with a Bachelors of Sci
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [My Document/Notes hub](https://github.com/stevenovak123/LearnDocs)  
+- 🔭 I’m currently working on [My Document/Notes hub](https://github.com/stevenovak123/stevnovak123.github.io)  
   
 
 - 🌱 I’m currently learning Automation testing in Selenium 

@@ -22,7 +22,7 @@
 
 ### Glad to see you here!  
 I’m a software developer with a keen interest in building Web Apps and Websites.
-I recently graduated from the St.Xaviers College Mumbai, with a Bachelors of Science in Information Technology(BSc.IT). (Class of 22). I'm from India. I'm Open to Work and Freelancing opportunities.
+I graduated from the St.Xaviers College Mumbai, with a Bachelors of Science in Information Technology(BSc.IT). (Class of 22). I'm from India. I'm Open to Work and Freelancing opportunities.
 
   
   
@@ -33,10 +33,10 @@ I recently graduated from the St.Xaviers College Mumbai, with a Bachelors of Sci
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [My Document/Notes hub](https://github.com/stevenovak123/stevnovak123.github.io)  
+- 🔭 I’m currently working on [My Document/Notes hub](https://github.com/stevenovak123/learndocs)  
   
 
-- 🌱 I’m currently learning Automation testing in Selenium 
+- 🌱 I’m currently learning Automation testing in Selenium and pursuing an AWS certification
   
 
 - ❓ Ask me about anything related to Web-dev, Testing, Automation & Collaboration

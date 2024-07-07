@@ -102,5 +102,3 @@ I graduated from the St.Xaviers College Mumbai, with a Bachelors of Science in I
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

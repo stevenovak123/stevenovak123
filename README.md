@@ -36,7 +36,7 @@ I graduated from the St.Xaviers College Mumbai, with a Bachelors of Science in I
 - 🔭 I’m currently working on [My Document/Notes hub](https://github.com/stevenovak123/learndocs)  
   
 
-- 🌱 I’m currently learning Automation testing in Selenium and pursuing an AWS certification
+- 🌱 I'm always looking to do something new, trying to pickup new hobbies and sports
   
 
 - ❓ Ask me about anything related to Web-dev, Testing, Automation & Collaboration

@@ -7,9 +7,6 @@
 <a href="https://twitter.com/stevenovak123" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://hashnode.com/@stevenovak123" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/stevenovak123" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -21,8 +18,9 @@
 
 
 ### Glad to see you here!  
-I’m a software developer with a keen interest in building Web Apps and Websites.
-I graduated from the St.Xaviers College Mumbai, with a Bachelors of Science in Information Technology(BSc.IT). (Class of 22). I'm from India. I'm Open to Work and Freelancing opportunities.
+I’m a software developer with a keen interest in building Web Apps and Websites. I am currently pursuing my Masters in Advanced Software Engineering from University of Leicester. I currently live in Leicester, United Kingdom.
+
+I graduated from the St.Xaviers College Mumbai, with a Bachelors of Science in Information Technology(BSc.IT). (Class of 22). I'm Open to Work, Freelancing opportunities, Collabs etc.
 
   
   
